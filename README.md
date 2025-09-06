@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 This is Eyob </h1>
+<h1 align="center">Hi 👋 This is Biruk M </h1>
 <p align="center"> mern stack web developer, enthusiast machine learining computer, and communication engineer.</p>
 <p align="center">
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Profile Banner">
